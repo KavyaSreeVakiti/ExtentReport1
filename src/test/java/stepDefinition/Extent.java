@@ -72,3 +72,4 @@ public class Extent
     driver.quit();
 }
 }
+  //New code added
